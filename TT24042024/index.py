@@ -10,7 +10,7 @@ index_name = "music"
 # Headers chứa MASTER_KEY
 headers = {
     "Content-Type": "application/json",
-    "X-Meili-API-Key": "d55rxOn9BsUkOXE-VoALZi61NyEKbcEf61erMmNCINs"
+    "X-Meili-API-Key": "c-AtQqnRWWGbJ4U9tNLcPgcht38dl7JsoIKt3izjuGM"
 }
 # Dữ liệu JSON để tạo index
 data = {
