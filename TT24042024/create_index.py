@@ -5,12 +5,12 @@ import requests
 url = "http://127.0.0.1:7700/indexes"
 
 # Tên của index bạn muốn tạo
-index_name = "music"
+index_name = "ameo1"
 
 # Headers chứa MASTER_KEY
 headers = {
     "Content-Type": "application/json",
-    "X-Meili-API-Key": "c-AtQqnRWWGbJ4U9tNLcPgcht38dl7JsoIKt3izjuGM"
+    "X-Meili-API-Key": "Usx-rsHaXi6exm1WGm89pLspa7yMhkdUhxGbGuu7fNI"
 }
 # Dữ liệu JSON để tạo index
 data = {

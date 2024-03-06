@@ -1,0 +1,893 @@
+[
+    {
+        "id": 1,
+        "title": "The Fighter",
+        "genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Crime"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 2,
+        "title": "Battleship",
+        "genres": [
+            "Fantasy",
+            "Crime"
+        ],
+        "release_date": 2024
+    },
+    {
+        "id": 3,
+        "title": "Toy Story 4",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_date": 2014
+    },
+    {
+        "id": 4,
+        "title": "How to Train Your Dragon",
+        "genres": [
+            "Cartoon"
+        ],
+        "release_date": 2013
+    },
+    {
+        "id": 5,
+        "title": "Toy Story 4",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "release_date": 2000
+    },
+    {
+        "id": 6,
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "genres": [
+            "Fantasy",
+            "Thriller"
+        ],
+        "release_date": 2019
+    },
+    {
+        "id": 7,
+        "title": "Clash of the Titans",
+        "genres": [
+            "Fantasy"
+        ],
+        "release_date": 2012
+    },
+    {
+        "id": 8,
+        "title": "Dumbo",
+        "genres": [
+            "Crime",
+            "Cartoon",
+            "Adventure"
+        ],
+        "release_date": 2000
+    },
+    {
+        "id": 9,
+        "title": "Ghostbusters: Afterlife",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2022
+    },
+    {
+        "id": 10,
+        "title": "Avatar: The Way of Water",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2005
+    },
+    {
+        "id": 11,
+        "title": "Snow White and the Huntsman",
+        "genres": [
+            "Drama"
+        ],
+        "release_date": 2020
+    },
+    {
+        "id": 12,
+        "title": "No Time to Die",
+        "genres": [
+            "Action"
+        ],
+        "release_date": 2009
+    },
+    {
+        "id": 13,
+        "title": "The Marvels",
+        "genres": [
+            "Cartoon",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_date": 2024
+    },
+    {
+        "id": 14,
+        "title": "Hustlers",
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Fantasy"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 15,
+        "title": "Gravity",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Action"
+        ],
+        "release_date": 2012
+    },
+    {
+        "id": 16,
+        "title": "Argo",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "release_date": 2011
+    },
+    {
+        "id": 17,
+        "title": "Star Wars: Episode IX - The Rise of Skywalker",
+        "genres": [
+            "Adventure",
+            "Action"
+        ],
+        "release_date": 2017
+    },
+    {
+        "id": 18,
+        "title": "Terminator: Dark Fate",
+        "genres": [
+            "Cartoon",
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 19,
+        "title": "The Northman",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2005
+    },
+    {
+        "id": 20,
+        "title": "The Croods: A New Age",
+        "genres": [
+            "Cartoon",
+            "Sci-Fi"
+        ],
+        "release_date": 2004
+    },
+    {
+        "id": 21,
+        "title": "22 Jump Street",
+        "genres": [
+            "Thriller",
+            "Cartoon"
+        ],
+        "release_date": 2001
+    },
+    {
+        "id": 22,
+        "title": "How to Train Your Dragon: The Hidden World",
+        "genres": [
+            "Thriller"
+        ],
+        "release_date": 2023
+    },
+    {
+        "id": 23,
+        "title": "Teenage Mutant Ninja Turtles",
+        "genres": [
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "release_date": 2010
+    },
+    {
+        "id": 24,
+        "title": "Elvis",
+        "genres": [
+            "Thriller",
+            "Cartoon",
+            "Sci-Fi"
+        ],
+        "release_date": 2005
+    },
+    {
+        "id": 25,
+        "title": "Luca",
+        "genres": [
+            "Crime",
+            "Adventure"
+        ],
+        "release_date": 2009
+    },
+    {
+        "id": 26,
+        "title": "Life of Pi",
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Action"
+        ],
+        "release_date": 2016
+    },
+    {
+        "id": 27,
+        "title": "Free Guy",
+        "genres": [
+            "Cartoon"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 28,
+        "title": "Thor: Love and Thunder",
+        "genres": [
+            "Sci-Fi",
+            "Crime",
+            "Thriller"
+        ],
+        "release_date": 2010
+    },
+    {
+        "id": 29,
+        "title": "The Twilight Saga: Breaking Dawn - Part 2",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Adventure"
+        ],
+        "release_date": 2012
+    },
+    {
+        "id": 30,
+        "title": "The Lego Movie 2: The Second Part",
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "release_date": 2015
+    },
+    {
+        "id": 31,
+        "title": "Avatar: The Way of Water",
+        "genres": [
+            "Cartoon",
+            "Thriller",
+            "Fantasy"
+        ],
+        "release_date": 2012
+    },
+    {
+        "id": 32,
+        "title": "Sonic the Hedgehog 2",
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Crime"
+        ],
+        "release_date": 2010
+    },
+    {
+        "id": 33,
+        "title": "The Amazing Spider-Man",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Fantasy"
+        ],
+        "release_date": 2004
+    },
+    {
+        "id": 34,
+        "title": "The Expendables 2",
+        "genres": [
+            "Drama"
+        ],
+        "release_date": 2020
+    },
+    {
+        "id": 35,
+        "title": "Thor: Love and Thunder",
+        "genres": [
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 36,
+        "title": "John Wick: Chapter 2",
+        "genres": [
+            "Crime",
+            "Action",
+            "Adventure"
+        ],
+        "release_date": 2005
+    },
+    {
+        "id": 37,
+        "title": "Silver Linings Playbook",
+        "genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Drama"
+        ],
+        "release_date": 2017
+    },
+    {
+        "id": 38,
+        "title": "Now You See Me",
+        "genres": [
+            "Fantasy",
+            "Cartoon"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 39,
+        "title": "Ted",
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "release_date": 2004
+    },
+    {
+        "id": 40,
+        "title": "The Peanuts Movie",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "release_date": 2003
+    },
+    {
+        "id": 41,
+        "title": "The Maze Runner",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "release_date": 2015
+    },
+    {
+        "id": 42,
+        "title": "Black Adam",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2022
+    },
+    {
+        "id": 43,
+        "title": "G.I. Joe: Retaliation",
+        "genres": [
+            "Sci-Fi",
+            "Thriller",
+            "Cartoon"
+        ],
+        "release_date": 2011
+    },
+    {
+        "id": 44,
+        "title": "The Marvels",
+        "genres": [
+            "Action",
+            "Cartoon",
+            "Crime"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 45,
+        "title": "21 Jump Street",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2000
+    },
+    {
+        "id": 46,
+        "title": "Black Swan",
+        "genres": [
+            "Action",
+            "Cartoon",
+            "Crime"
+        ],
+        "release_date": 2019
+    },
+    {
+        "id": 47,
+        "title": "The Fault in Our Stars",
+        "genres": [
+            "Adventure",
+            "Cartoon",
+            "Sci-Fi"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 48,
+        "title": "San Andreas",
+        "genres": [
+            "Drama"
+        ],
+        "release_date": 2008
+    },
+    {
+        "id": 49,
+        "title": "Harry Potter and the Deathly Hallows \u2013 Part 1",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2008
+    },
+    {
+        "id": 50,
+        "title": "Rebel Moon",
+        "genres": [
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "release_date": 2015
+    },
+    {
+        "id": 51,
+        "title": "The Gray Man",
+        "genres": [
+            "Cartoon",
+            "Thriller"
+        ],
+        "release_date": 2003
+    },
+    {
+        "id": 52,
+        "title": "Rebel Moon",
+        "genres": [
+            "Sci-Fi",
+            "Fantasy"
+        ],
+        "release_date": 2004
+    },
+    {
+        "id": 53,
+        "title": "The Expendables",
+        "genres": [
+            "Crime"
+        ],
+        "release_date": 2010
+    },
+    {
+        "id": 54,
+        "title": "Bill & Ted Face the Music",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Drama"
+        ],
+        "release_date": 2019
+    },
+    {
+        "id": 55,
+        "title": "Oblivion",
+        "genres": [
+            "Drama",
+            "Action"
+        ],
+        "release_date": 2007
+    },
+    {
+        "id": 56,
+        "title": "Knives Out",
+        "genres": [
+            "Cartoon",
+            "Fantasy",
+            "Crime"
+        ],
+        "release_date": 2012
+    },
+    {
+        "id": 57,
+        "title": "Fatman",
+        "genres": [
+            "Adventure",
+            "Thriller"
+        ],
+        "release_date": 2007
+    },
+    {
+        "id": 58,
+        "title": "The Hunger Games: Mockingjay - Part 2",
+        "genres": [
+            "Crime",
+            "Cartoon",
+            "Thriller"
+        ],
+        "release_date": 2014
+    },
+    {
+        "id": 59,
+        "title": "22 Jump Street",
+        "genres": [
+            "Fantasy"
+        ],
+        "release_date": 2002
+    },
+    {
+        "id": 60,
+        "title": "Ant-Man",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Adventure"
+        ],
+        "release_date": 2001
+    },
+    {
+        "id": 61,
+        "title": "Joker",
+        "genres": [
+            "Thriller"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 62,
+        "title": "Jumanji: The Next Level",
+        "genres": [
+            "Sci-Fi",
+            "Crime",
+            "Drama"
+        ],
+        "release_date": 2010
+    },
+    {
+        "id": 63,
+        "title": "Night at the Museum: Secret of the Tomb",
+        "genres": [
+            "Crime"
+        ],
+        "release_date": 2014
+    },
+    {
+        "id": 64,
+        "title": "Battleship",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_date": 2022
+    },
+    {
+        "id": 65,
+        "title": "Luca",
+        "genres": [
+            "Adventure",
+            "Sci-Fi",
+            "Crime"
+        ],
+        "release_date": 2010
+    },
+    {
+        "id": 66,
+        "title": "Sonic the Hedgehog 2",
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Thriller"
+        ],
+        "release_date": 2000
+    },
+    {
+        "id": 67,
+        "title": "Bullet Train",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2018
+    },
+    {
+        "id": 68,
+        "title": "It Chapter Two",
+        "genres": [
+            "Sci-Fi",
+            "Thriller",
+            "Action"
+        ],
+        "release_date": 2013
+    },
+    {
+        "id": 69,
+        "title": "Free Guy",
+        "genres": [
+            "Action"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 70,
+        "title": "The Secret Life of Pets 2",
+        "genres": [
+            "Crime",
+            "Adventure",
+            "Drama"
+        ],
+        "release_date": 2009
+    },
+    {
+        "id": 71,
+        "title": "Jurassic World",
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 72,
+        "title": "Captain America: The Winter Soldier",
+        "genres": [
+            "Thriller"
+        ],
+        "release_date": 2007
+    },
+    {
+        "id": 73,
+        "title": "Men in Black 3",
+        "genres": [
+            "Thriller",
+            "Fantasy",
+            "Adventure"
+        ],
+        "release_date": 2002
+    },
+    {
+        "id": 74,
+        "title": "Ted",
+        "genres": [
+            "Cartoon",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 75,
+        "title": "Avengers: Endgame",
+        "genres": [
+            "Cartoon"
+        ],
+        "release_date": 2008
+    },
+    {
+        "id": 76,
+        "title": "Teenage Mutant Ninja Turtles",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "release_date": 2003
+    },
+    {
+        "id": 77,
+        "title": "Space Jam: A New Legacy",
+        "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Action"
+        ],
+        "release_date": 2003
+    },
+    {
+        "id": 78,
+        "title": "Scott Pilgrim vs. the World",
+        "genres": [
+            "Action"
+        ],
+        "release_date": 2004
+    },
+    {
+        "id": 79,
+        "title": "Inception",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 80,
+        "title": "Despicable Me 3",
+        "genres": [
+            "Crime",
+            "Fantasy"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 81,
+        "title": "Flight",
+        "genres": [
+            "Thriller",
+            "Adventure"
+        ],
+        "release_date": 2005
+    },
+    {
+        "id": 82,
+        "title": "John Wick",
+        "genres": [
+            "Sci-Fi",
+            "Cartoon",
+            "Thriller"
+        ],
+        "release_date": 2003
+    },
+    {
+        "id": 83,
+        "title": "Godzilla vs. Kong",
+        "genres": [
+            "Fantasy"
+        ],
+        "release_date": 2011
+    },
+    {
+        "id": 84,
+        "title": "Maleficent: Mistress of Evil",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "release_date": 2009
+    },
+    {
+        "id": 85,
+        "title": "Terminator Genisys",
+        "genres": [
+            "Cartoon",
+            "Thriller"
+        ],
+        "release_date": 2019
+    },
+    {
+        "id": 86,
+        "title": "Shazam!",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "release_date": 2012
+    },
+    {
+        "id": 87,
+        "title": "Soul",
+        "genres": [
+            "Cartoon",
+            "Action"
+        ],
+        "release_date": 2021
+    },
+    {
+        "id": 88,
+        "title": "Frozen",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Fantasy"
+        ],
+        "release_date": 2014
+    },
+    {
+        "id": 89,
+        "title": "The New Mutants",
+        "genres": [
+            "Thriller"
+        ],
+        "release_date": 2022
+    },
+    {
+        "id": 90,
+        "title": "Pitch Perfect 2",
+        "genres": [
+            "Cartoon",
+            "Crime",
+            "Sci-Fi"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 91,
+        "title": "Star Wars: Episode VIII - The Last Jedi",
+        "genres": [
+            "Crime"
+        ],
+        "release_date": 2008
+    },
+    {
+        "id": 92,
+        "title": "Beauty and the Beast",
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Cartoon"
+        ],
+        "release_date": 2019
+    },
+    {
+        "id": 93,
+        "title": "Iron Man 3",
+        "genres": [
+            "Adventure"
+        ],
+        "release_date": 2000
+    },
+    {
+        "id": 94,
+        "title": "Blonde",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "release_date": 2006
+    },
+    {
+        "id": 95,
+        "title": "Beauty and the Beast",
+        "genres": [
+            "Cartoon"
+        ],
+        "release_date": 2001
+    },
+    {
+        "id": 96,
+        "title": "Ted",
+        "genres": [
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "release_date": 2016
+    },
+    {
+        "id": 97,
+        "title": "The Dark Knight Rises",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "release_date": 2003
+    },
+    {
+        "id": 98,
+        "title": "The Marvels",
+        "genres": [
+            "Fantasy",
+            "Crime",
+            "Cartoon"
+        ],
+        "release_date": 2005
+    }
+]

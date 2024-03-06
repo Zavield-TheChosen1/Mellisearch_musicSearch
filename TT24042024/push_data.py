@@ -2,15 +2,15 @@ import requests
 import json
 
 # Đọc dữ liệu từ tệp JSON
-with open('data.json', 'r') as file:
+with open('data3.json', 'r') as file:
     data = json.load(file)
 # URL của MeiliSearch API
-url = "http://127.0.0.1:7700/indexes/music/documents"
+url = "http://127.0.0.1:7700/indexes/ameo1/documents"
 
 # Headers chứa MASTER_KEY
 headers = {
     "Content-Type": "application/json",
-    "X-Meili-API-Key": "MASTER_KEY"
+    "X-Meili-API-Key": "Usx-rsHaXi6exm1WGm89pLspa7yMhkdUhxGbGuu7fNI"
 }
 
 # Gửi yêu cầu POST để thêm các tài liệu vào index
