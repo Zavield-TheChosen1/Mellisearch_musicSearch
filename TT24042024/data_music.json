@@ -1,0 +1,645 @@
+[
+    {
+        "id": "412559401",
+        "title": "BEETHOVEN",
+        "genres": ["Classical"],
+        "release_date": 2012
+    },
+    {
+        "id": "1126973500",
+        "title": "Forever Love (Original Vocal)",
+        "genres": ["Folk"],
+        "release_date": 2016
+    },
+    {
+        "id": "388897008",
+        "title": "Summer Rain (Extended Version)",
+        "genres": ["Electronic"],
+        "release_date": null
+    },
+    {
+        "id": "1503315485",
+        "title": "Hernando's Hideaway",
+        "genres": ["Classical"],
+        "release_date": 2019
+    },
+    {
+        "id": "265573703",
+        "title": "Commit Yourself (iLL & Flanger Mix)",
+        "genres": ["Pop"],
+        "release_date": 2011
+    },
+    {
+        "id": "304332404",
+        "title": "Futile Existence",
+        "genres": ["Rock"],
+        "release_date": null
+    },
+    {
+        "id": "84180607",
+        "title": "Bachatel",
+        "genres": ["Pop"],
+        "release_date": 1977
+    },
+    {
+        "id": "127324609",
+        "title": "Vogeltjesdans",
+        "genres": ["Electronic"],
+        "release_date": null
+    },
+    {
+        "id": "711359002",
+        "title": "OMG - I'm Being Killed (Extended Version)",
+        "genres": ["Electronic"],
+        "release_date": 2015
+    },
+    {
+        "id": "1375757004",
+        "title": "Center Point Road",
+        "genres": ["Folk"],
+        "release_date": 2019
+    },
+    {
+        "id": "677876304",
+        "title": "Glorious Grace",
+        "genres": ["Folk"],
+        "release_date": 1984
+    },
+    {
+        "id": "665138701",
+        "title": "Come Worship The Lord (Psalm 95)",
+        "genres": ["Folk"],
+        "release_date": 2003
+    },
+    {
+        "id": "1585792311",
+        "title": "Can't Get Used To Losing You",
+        "genres": ["Rock"],
+        "release_date": 1980
+    },
+    {
+        "id": "327299911",
+        "title": "So Tired",
+        "genres": ["Rock"],
+        "release_date": 1993
+    },
+    {
+        "id": "33952003",
+        "title": "Appreciate (Original)",
+        "genres": ["Hip Hop"],
+        "release_date": 2004
+    },
+    {
+        "id": "1534599901",
+        "title": "Springwater",
+        "genres": ["Pop"],
+        "release_date": 2020
+    },
+    {
+        "id": "1075328001",
+        "title": "Altered State",
+        "genres": ["Rock"],
+        "release_date": null
+    },
+    {
+        "id": "1346398611",
+        "title": "Historia De Un Amor",
+        "genres": ["Pop"],
+        "release_date": 1995
+    },
+    {
+        "id": "1045695601",
+        "title": "Just For One Day (Heroes)(Club Mix)",
+        "genres": ["Electronic"],
+        "release_date": 2004
+    },
+    {
+        "id": "116155000",
+        "title": "Zhe Nhir Is A One Trick Pony",
+        "genres": ["Electronic"],
+        "release_date": 2007
+    },
+    {
+        "id": "211961501",
+        "title": "Feed The Horse",
+        "genres": ["Rock"],
+        "release_date": 2008
+    },
+    {
+        "id": "70764404",
+        "title": "Forget You",
+        "genres": ["Pop"],
+        "release_date": 2003
+    },
+    {
+        "id": "243198559",
+        "title": "Концерт «Live '97» The Best",
+        "genres": ["Rock"],
+        "release_date": 2002
+    },
+    {
+        "id": "26813016",
+        "title": "God Forgive Me",
+        "genres": ["Pop"],
+        "release_date": 2000
+    },
+    {
+        "id": "760709600",
+        "title": "En Saluant Marquise",
+        "genres": ["Folk"],
+        "release_date": null
+    },
+    {
+        "id": "1255406509",
+        "title": "Act 1. Part 2, Scene 7. Zdravstvuy, soldat!",
+        "genres": ["Classical"],
+        "release_date": 2000
+    },
+    {
+        "id": "585222400",
+        "title": "Vaisnava Bhajan",
+        "genres": ["Folk"],
+        "release_date": 1992
+    },
+    {
+        "id": "1329786615",
+        "title": "Mon Piano Romantique",
+        "genres": ["Classical"],
+        "release_date": 1986
+    },
+    {
+        "id": "213355407",
+        "title": "Truth'll Set You Free",
+        "genres": ["Jazz"],
+        "release_date": 2009
+    },
+    {
+        "id": "1455632303",
+        "title": "Carry Your Own Load",
+        "genres": ["Funk"],
+        "release_date": 1970
+    },
+    {
+        "id": "1176330619",
+        "title": "We Are Good",
+        "genres": ["Rock"],
+        "release_date": 1984
+    },
+    {
+        "id": "219469000",
+        "title": "Contenders",
+        "genres": ["Electronic"],
+        "release_date": 1986
+    },
+    {
+        "id": "808098401",
+        "title": "Hardway",
+        "genres": ["Rock"],
+        "release_date": 1988
+    },
+    {
+        "id": "5248505",
+        "title": "Body 2 Body",
+        "genres": ["Electronic"],
+        "release_date": 2000
+    },
+    {
+        "id": "96567104",
+        "title": "My Love Is Crazy 4 You",
+        "genres": ["Electronic"],
+        "release_date": 2000
+    },
+    {
+        "id": "405504000",
+        "title": "Le Bande Di Lanciane",
+        "genres": ["Folk"],
+        "release_date": 1965
+    },
+    {
+        "id": "1235243615",
+        "title": "The Hawaiian Cowboy",
+        "genres": ["Folk"],
+        "release_date": 2008
+    },
+    {
+        "id": "1405382801",
+        "title": "Turnpike Ike",
+        "genres": ["Hip Hop"],
+        "release_date": 2019
+    },
+    {
+        "id": "1402528807",
+        "title": "Night In The City",
+        "genres": ["Rock"],
+        "release_date": 2019
+    },
+    {
+        "id": "897569209",
+        "title": "Girlfriend",
+        "genres": ["Folk"],
+        "release_date": 2016
+    },
+    {
+        "id": "1087796003",
+        "title": "Almost Human",
+        "genres": ["Rock"],
+        "release_date": 2016
+    },
+    {
+        "id": "293511812",
+        "title": "Demos # 2 - June / December 1981",
+        "genres": ["Rock"],
+        "release_date": 2005
+    },
+    {
+        "id": "857390100",
+        "title": "Martyr The Dead",
+        "genres": ["Rock"],
+        "release_date": 2010
+    },
+    {
+        "id": "33071822",
+        "title": "Jealousy (Is A M.F.) (Neophyte Rmx)",
+        "genres": ["Electronic"],
+        "release_date": 2002
+    },
+    {
+        "id": "1496216507",
+        "title": "Sakat",
+        "genres": ["Folk"],
+        "release_date": 2007
+    },
+    {
+        "id": "1539958702",
+        "title": "Ich weiss nicht",
+        "genres": ["Pop"],
+        "release_date": 2016
+    },
+    {
+        "id": "1262554315",
+        "title": "Noah And The Mighty Ark",
+        "genres": ["Folk"],
+        "release_date": 2006
+    },
+    {
+        "id": "758864008",
+        "title": "Butterfly",
+        "genres": ["Pop"],
+        "release_date": 1979
+    },
+    {
+        "id": "777552505",
+        "title": "Cloudy Sky Blues",
+        "genres": ["Rock"],
+        "release_date": 2000
+    },
+    {
+        "id": "1206566003",
+        "title": "Children Of The Damned",
+        "genres": ["Rock"],
+        "release_date": 2012
+    },
+    {
+        "id": "833158506",
+        "title": "After Midnight",
+        "genres": ["Rock"],
+        "release_date": 1993
+    },
+    {
+        "id": "699655401",
+        "title": "Tomorrow's Up For Sale",
+        "genres": ["Folk"],
+        "release_date": 1977
+    },
+    {
+        "id": "754418509",
+        "title": "Equador",
+        "genres": ["Pop"],
+        "release_date": 1997
+    },
+    {
+        "id": "74347902",
+        "title": "Trauma",
+        "genres": ["Electronic"],
+        "release_date": 2006
+    },
+    {
+        "id": "637848209",
+        "title": "Samba 73",
+        "genres": ["Stage"],
+        "release_date": 1977
+    },
+    {
+        "id": "1314531709",
+        "title": "Dos Hombres Un Destino",
+        "genres": ["Latin"],
+        "release_date": 2003
+    },
+    {
+        "id": "1364346222",
+        "title": "A Medias De La Noche",
+        "genres": ["Latin"],
+        "release_date": 1974
+    },
+    {
+        "id": "102680105",
+        "title": "In The Mood",
+        "genres": ["Rock"],
+        "release_date": 1974
+    },
+    {
+        "id": "684082515",
+        "title": "Trying To Lose The Blues",
+        "genres": ["Blues"],
+        "release_date": 1989
+    },
+    {
+        "id": "481551614",
+        "title": "Congratulations, You Have Just Met The Famous BSSR Nazikillers",
+        "genres": ["Electronic"],
+        "release_date": 2013
+    },
+    {
+        "id": "756110314",
+        "title": "Music Video",
+        "genres": ["Pop"],
+        "release_date": 2013
+    },
+    {
+        "id": "1389424609",
+        "title": "A Fellow Needs A Girl",
+        "genres": ["Pop"],
+        "release_date": 2005
+    },
+    {
+        "id": "232149106",
+        "title": "White Rose",
+        "genres": ["Rock"],
+        "release_date": 1995
+    },
+    {
+        "id": "594530202",
+        "title": "It Never Dies",
+        "genres": ["Rock"],
+        "release_date": 2001
+    },
+    {
+        "id": "1167925804",
+        "title": "Spot Reklamowy PLAYBOYA",
+        "genres": ["Pop"],
+        "release_date": 2006
+    },
+    {
+        "id": "878008408",
+        "title": "Big 10 1/2",
+        "genres": ["Hip Hop"],
+        "release_date": 1996
+    },
+    {
+        "id": "3822102",
+        "title": "Dualis",
+        "genres": ["Electronic"],
+        "release_date": 2002
+    },
+    {
+        "id": "581262505",
+        "title": "Fra \" Nordland Trompet\"",
+        "genres": ["Folk"],
+        "release_date": 1984
+    },
+    {
+        "id": "1399775330",
+        "title": "Everything Happens To Me",
+        "genres": ["Jazz"],
+        "release_date": 2013
+    },
+    {
+        "id": "270250900",
+        "title": "Dark Lady",
+        "genres": ["Rock"],
+        "release_date": 1989
+    },
+    {
+        "id": "877770702",
+        "title": "Unknown Tongues",
+        "genres": [
+            "Electronic"
+        ],
+        "country": "US",
+        "release_date": 2016
+    },
+    {
+        "id": "822778300",
+        "title": "You Are The Quarry",
+        "genres": [
+            "Rock"
+        ],
+        "country": "Indonesia",
+        "release_date": 2010
+    },
+    {
+        "id": "834409311",
+        "title": "Permis de Détruire",
+        "genres": [
+            "Rock"
+        ],
+        "country": "France",
+        "release_date": 2013
+    },
+    {
+        "id": "695586101",
+        "title": "En El Barranco Del Lobo",
+        "genres": [
+            "Folk",
+            "World"
+        ],
+        "country": "Spain",
+        "release_date": 1976
+    },
+    {
+        "id": "894705402",
+        "title": "Get Down On It",
+        "genres": [
+            "Funk",
+            "Soul"
+        ],
+        "country": "US",
+        "release_date": 2006
+    },
+    {
+        "id": "1401036902",
+        "title": "Good Flood",
+        "genres": [
+            "Electronic"
+        ],
+        "country": "Germany",
+        "release_date": 2014
+    },
+    {
+        "id": "244273802",
+        "title": "Lionheart",
+        "genres": [
+            "Rock"
+        ],
+        "country": "US",
+        "release_date": 1990
+    },
+    {
+        "id": "1358842201",
+        "title": "D'Indianer-Zaubermedizin",
+        "genres": [
+            "Children's"
+        ],
+        "country": "Switzerland",
+        "release_date": 2003
+    },
+    {
+        "id": "1119781120",
+        "title": "When Will I See You Again",
+        "genres": [
+            "Pop"
+        ],
+        "country": "UK",
+        "release_date": 2017
+    },
+    {
+        "id": "1542573517",
+        "title": "Chart Breakers",
+        "genres": [
+            "Stage",
+            "Screen"
+        ],
+        "country": "UK",
+        "release_date": 2000
+    },
+    {
+        "id": "1260328305",
+        "title": "Lifetime When Right (Original Mix)",
+        "genres": [
+            "Electronic"
+        ],
+        "country": "Netherlands",
+        "release_date": 2014
+    },
+    {
+        "id": "814855003",
+        "title": "Come Gira",
+        "genres": [
+            "Hip Hop"
+        ],
+        "country": "Italy",
+        "release_date": 2013
+    },
+    {
+        "id": "1464533108",
+        "title": "Baby Come Back",
+        "genres": [
+            "Rock"
+        ],
+        "country": "Germany",
+        "release_date": 1992
+    },
+    {
+        "id": "1146186901",
+        "title": "Quartet In D Major, K. 575",
+        "genres": [
+            "Classical"
+        ],
+        "country": "US",
+        "release_date": 1955
+    },
+    {
+        "id": "1337150303",
+        "title": "Ham Tum Se Juda Ho Ke",
+        "genres": [
+            "Stage",
+            "Screen"
+        ],
+        "country": "India",
+        "release_date": 1965
+    },
+    {
+        "id": "166396600",
+        "title": "Oh No (Remix - Radio)",
+        "genres": [
+            "Hip Hop"
+        ],
+        "country": "US",
+        "release_date": 1999
+    },
+    {
+        "id": "37035104",
+        "title": "Afterglow (Reprise)",
+        "genres": [
+            "Rock"
+        ],
+        "country": "Europe",
+        "release_date": 1995
+    },
+    {
+        "id": "1439805607",
+        "title": "Митро Ле, Митро",
+        "genres": [
+            "Folk",
+            "World"
+        ],
+        "country": "Bulgaria",
+        "release_date": 2003
+    },
+    {
+        "id": "561094816",
+        "title": "瑪莉亞",
+        "genres": [
+            "Folk",
+            "World"
+        ],
+        "country": "Taiwan",
+        "release_date": 2003
+    },
+    {
+        "id": "724845003",
+        "title": "Belial",
+        "genres": [
+            "Rock"
+        ],
+        "country": "",
+        "release_date": 2015
+    },
+    {
+        "id": "1142024102",
+        "title": "Laisse Un Peu D'amour",
+        "genres": [
+            "Pop"
+        ],
+        "country": "France",
+        "release_date": 1965
+    },
+    {
+        "id": "1327140807",
+        "title": "Untitled",
+        "genres": [
+            "Non-Music"
+        ],
+        "country": "Australia",
+        "release_date": 1992
+    },
+    {
+        "id": "323483708",
+        "title": "Firewater Friends",
+        "genres": [
+            "Folk",
+            "World"
+        ],
+        "country": "US",
+        "release_date": 1982
+    },
+    {
+        "id": "816562410",
+        "title": "Bonus Tracks",
+        "genres": [
+            "Jazz"
+        ],
+        "country": "France",
+        "release_date": 2009
+    }
+]

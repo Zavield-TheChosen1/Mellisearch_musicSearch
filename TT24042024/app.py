@@ -256,7 +256,7 @@ def show_music_search_window(api_key, index_name):
     genre_combobox = ttk.Combobox(frame, width=27)
     genre_combobox.grid(row=3, column=1, padx=5, pady=5)
     # Cập nhật dữ liệu cho dropdown genre tại đây
-    genres = ["Solo","Piano","Cello"]
+    genres = ["Solo","Piano","Cello","Folk","Jazz","Non-Music","Rock","Pop","Hip Hop","Stage","Screen","Classical","Electronic","Children's","Funk","Blues","Latin"]
     genre_combobox['values'] = genres
     
     # Tạo dropdown cho release year
@@ -265,7 +265,7 @@ def show_music_search_window(api_key, index_name):
     release_year_combobox = ttk.Combobox(frame, width=27)
     release_year_combobox.grid(row=2, column=1, padx=5, pady=5)
     # Cập nhật dữ liệu cho dropdown release year tại đây
-    release_years = [str(year) for year in range(1650,2002)]  # Ví dụ: danh sách các năm 
+    release_years = [str(year) for year in range(1880,2020)]  # Ví dụ: danh sách các năm 
     release_year_combobox['values'] = release_years
     
 

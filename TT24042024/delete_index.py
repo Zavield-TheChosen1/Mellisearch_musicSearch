@@ -1,14 +1,14 @@
 import requests
 
 # Tên của index bạn muốn xóa
-index_name = "ameo"
+index_name = "music"
 
 # URL của MeiliSearch API
 url = f"http://127.0.0.1:7700/indexes/{index_name}"
 
 # Headers chứa API Key
 headers = {
-    "X-Meili-API-Key": "Usx-rsHaXi6exm1WGm89pLspa7yMhkdUhxGbGuu7fNI"  # Thay API_KEY bằng key của bạn
+    "X-Meili-API-Key": "Z9gqb14VZf_zyYU616YKfhqYEuLOvk9iFJFbd_wk5Xw"  # Thay API_KEY bằng key của bạn
 }
 
 # Gửi yêu cầu DELETE để xóa index
