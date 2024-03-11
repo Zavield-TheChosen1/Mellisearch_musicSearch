@@ -10,13 +10,18 @@ release_year_combobox = None
 def login():
     global genre_combobox
     global release_year_combobox
+
     # Lấy thông tin đăng nhập từ các ô nhập
     api_key = api_key_entry.get()
-    index_name = index_name_entry.get()
+    index_name = index_name_combobox.get()  # Thay vì sử dụng Entry, chúng ta sử dụng giá trị được chọn từ dropdown
 
     # Kiểm tra xem có dữ liệu được nhập hay không
-    if not api_key or not index_name:
-        messagebox.showerror("Error", "Please enter API key and index name.")
+    if not api_key:
+        messagebox.showerror("Error", "Please enter API key.")
+        return
+
+    if not index_name:
+        messagebox.showerror("Error", "Please select an index name.")
         return
 
     # Thực hiện xác thực thông tin đăng nhập
@@ -77,7 +82,7 @@ def show_movies_search_window(api_key, index_name):
     keyword_entry.bind("<Return>", lambda event: search_movies(event, api_key, index_name, keyword_entry))
 
     # Tạo button để thực hiện tìm kiếm
-    search_button = tk.Button(frame, text="Search Movies", command=lambda: search_movies(None, api_key, index_name, keyword_entry))
+    search_button = tk.Button(frame, text="Search Movies", command=lambda: search_movies(api_key, index_name, keyword_entry))
     search_button.grid(row=1, column=0, columnspan=2, padx=5, pady=5)
 
     # Tạo dropdown cho genre
@@ -408,11 +413,18 @@ api_key_label.grid(row=0, column=0, padx=5, pady=5, sticky="e")
 api_key_entry = tk.Entry(login_frame, width=30)
 api_key_entry.grid(row=0, column=1, padx=5, pady=5)
 
-# Nhãn và ô nhập cho tên index
+# Nhãn cho combobox index
 index_name_label = tk.Label(login_frame, text="Index Name:")
 index_name_label.grid(row=1, column=0, padx=5, pady=5, sticky="e")
-index_name_entry = tk.Entry(login_frame, width=30)
-index_name_entry.grid(row=1, column=1, padx=5, pady=5)
+
+# Combobox để chọn index
+index_name_combobox = ttk.Combobox(login_frame, width=27)
+index_name_combobox.grid(row=1, column=1, padx=5, pady=5)
+
+# Thêm dữ liệu vào combobox index
+index_names = ["movies", "music"] 
+index_name_combobox['values'] = index_names
+
 
 # Button đăng nhập
 login_button = tk.Button(login_frame, text="Login", command=login)
